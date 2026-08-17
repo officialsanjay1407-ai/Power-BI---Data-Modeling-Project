@@ -4,9 +4,7 @@
 
 This project focuses on building a structured and scalable data model for a sales dataset using Microsoft Power BI.
 
-The primary objective was to transform raw sales data into a well-organized analytical model by performing data exploration, cleaning, transformation, data modeling, DAX calculations, and security implementation.
-
-The project demonstrates practical application of Power BI's data preparation and modeling capabilities for business intelligence and sales analysis.
+The primary objective was to transform raw sales data into a well-organized analytical model by performing Data Exploration, Cleaning, Transformation, Data Modeling, DAX calculations, and Row-Level Security implementation.
 
 ---
 
@@ -129,21 +127,3 @@ Through this project, I gained practical experience in:
 
 **Power BI | Power Query | DAX | Data Modeling | Data Cleaning | Data Transformation | Fact & Dimension Modeling | Galaxy Schema | Data Relationships | Row-Level Security | Business Intelligence**
 
----
-
-## Project Structure
-
-```text
-Power-BI-Sales-Data-Modeling/
-│
-├── README.md
-├── Power BI Project/
-│   └── Sales Data Modeling.pbix
-│
-├── Screenshots/
-│   ├── Data Model.png
-│   ├── Dashboard.png
-│   └── RLS.png
-│
-└── Documentation/
-    └── Project Documentation.pdf
