@@ -57,7 +57,7 @@ Therefore, the key challenge was to transform the available sales data into a st
 
 Loaded the sales dataset into Microsoft Power BI and reviewed the available tables and fields to understand the structure and characteristics of the data.
 
-### 2. Data Exploration & Cleaning
+### 2. Data Exploration, Cleaning & Transformation
 
 Used **Power Query** to explore, analyze, and clean the data.
 
