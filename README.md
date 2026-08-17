@@ -63,6 +63,8 @@ Used **Power Query** to explore, analyze, and clean the data.
 
 The data preparation process involved examining the available fields and ensuring that the data was appropriately structured for modeling and analysis.
 
+Pivot and Unpivot was used to transform the table data into required format.
+
 ### 3. Data Modeling
 
 Designed a structured data model by separating the data into:
