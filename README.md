@@ -127,3 +127,8 @@ Through this project, I gained practical experience in:
 
 **Power BI | Power Query | DAX | Data Modeling | Data Cleaning | Data Transformation | Fact & Dimension Modeling | Galaxy Schema | Data Relationships | Row-Level Security | Business Intelligence**
 
+---
+
+## Disclaimer
+
+This project was completed as part of my hands-on learning and portfolio development in Microsoft Power BI. The project was used to develop practical understanding of data preparation, data modeling, DAX, and Power BI security concepts.
